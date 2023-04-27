@@ -13,5 +13,5 @@ public class ClienteDto {
     private String paisrecidencia;
     private String paisnacimiento;
     private String direccion;
-    private String estado;
+    private Boolean estado;
 }

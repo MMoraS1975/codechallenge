@@ -31,5 +31,5 @@ public class Cliente {
     @Column
     private String direccion;
     @Column
-    private String estado;
+    private Boolean estado;
 }
